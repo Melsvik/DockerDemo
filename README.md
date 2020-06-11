@@ -8,6 +8,6 @@ Der skal ændres en lille smule i programmet for at få det til at poke korrekt.
 Serveren bør fortælle hvad der skal gøres hvis der pokes forkert.
 
 
-Run<br>
-docker build . -f Dockerfile -t docker-demo-container<br>
+Run
+docker build . -f Dockerfile -t docker-demo-container
 docker run docker-demo-container
